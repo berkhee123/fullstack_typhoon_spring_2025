@@ -28,3 +28,4 @@ print(f"binary number is : {bin(a)}")
 
 
 
+
