@@ -1,0 +1,280 @@
+git status
+git add
+git add .
+git status
+gti commit -m "add: session 01"
+git commit -m "add: session 01"
+git push
+ls
+python3 hello.py
+python3.9.6
+git version 2.39.5
+ssh-keygen
+cat/Users/typhoon/.ssh/id_rsa.pub: No such file or directory
+cat /Users/typhoon/.ssh/id_rsa.pub
+cd
+cd Desktop
+ls
+git clone git@github.com:berkhee123/fullstack_typhoon_spring_2025.git
+ls
+ls
+python3 introduce.py
+pyhton3 introduce.py
+python3 introduce.py
+ls
+pyhton3 introduce.py
+pytho3 introduce.py
+python3 introduce.py
+pyhton3 introduce.py
+python3 introduce.py 
+python3 introduce.py
+clear
+python3 introduce.py
+pyhton3 introduce.py
+python introduce.py
+python3 introduce.py
+pwd
+git status
+git status
+git add
+git status
+git add .
+git status
+git commit -m "add: session 02"
+git status
+git push
+git status
+git add .
+git status
+git commit -m "add: session 02"
+git status
+git push
+git status 
+git status
+git add .
+git status
+git commint -m "add: session 02"
+git status
+git push
+git status
+git commit -m "add: session 02"
+git status
+git push
+python3 introduce.py
+gift config --list
+git config--list
+git config--list
+git config --list
+git config --global user.name "Berkhee"
+git config --global user.email "berkhee123@gmail.com"
+git config --list
+cd ~/Desktop
+ls
+mkdir test-folder
+cd test-folder
+ls
+git init
+ls
+ls-la
+ls-la
+ls -la
+git status
+touch README.md
+ls
+git status
+git add .
+git status
+git commit -m "add new repository\
+\
+git commit -m "add new repository"\
+\
+"
+git status
+git commit -m "add new repository"
+git status
+cd..
+cd ..
+cd fullstack_typhoon_spring_2025/git status
+cd fullstack_typhoon-spring_2025
+cd fullstack_typhoon_spring_2025
+ls
+git remote -v 
+cd ..
+cd test-folder
+ls
+git remote -v
+git remote add origin https://github.com/berkhee123/test-repository.git
+git remote -v
+git branch -M main
+git push -u origin main\
+
+git remote remove origin
+git remote remove -v
+git remote remove origin
+git remote -v
+git remote add origin git@github.com:berkhee123/test-repository.git
+git branch -M main
+git push -u origin main
+ls
+cd ..
+ls
+cd test-folder
+ls
+ls
+ssh-T gift@github.com
+ssh-T git@github.com
+ssh-T git@github.com
+ssh -T git@github.com
+cd 
+pwd
+ls
+cd ~Desktop
+cd ~/Desktop
+pwd
+clear
+clear
+pwd 
+ls
+ls -l
+touch .hideen-file
+touch .hideen-file.txt
+touch .hidden-file.txt
+ls -l
+ls -la
+ls
+cd fullstack_typhoon_spring_2025
+ls -l
+ls =la
+ls -la
+pwd
+cd ..
+pwd
+cd ..
+ls
+pwd
+cd ..
+pwd
+ls
+cd ..
+ls
+cd Applications
+ls
+ls -la
+cd ..
+cd Desktop
+ls
+cd ~/Desktop
+ls
+cd ~/Desktop
+ls
+cd
+ls
+cd Documents
+cd ..
+cd ~/Desktop
+ls
+ls
+ls
+touch hello-world/touch,py
+touch hello-world.touch.py
+cd hello-world
+ls
+hello-world
+cd .. 
+ls
+cd ~/Desktop
+ls
+mkdir hello-world
+touch hello-word/touch.py
+touch hello-world
+cd hello-world
+clear
+pwd
+ls -la
+cd Documents
+pwd
+ls
+cd
+mkdir
+clear
+pwd
+ls -la
+ls
+pwd
+cd Documents
+ls
+pwd
+cd ~/Desktop
+mkdir hello-typhoon
+touch hello-typhoon
+ls
+mkdir LinuxPractice
+cd LinuxPractice
+touch file1.txt file2.txt file3.txt
+mkdir Backups
+mv file2.txt notes.txt
+cp file2.txt notes.txt
+cp file1.txt Backups/
+mv file2.txt notes.txt
+notes.txt
+cat notes.txt
+rm file3.txt
+ls
+ cd ~/Desktop
+ls
+cd ~/Desktop
+mkdir LinuxPractice
+ls
+pwd
+ls
+cd LinuxPractice
+pwd
+touch file1.txt file2.txt file3.txt
+ls
+mkdir Backups
+cp file1.txt Backups/
+ls
+mv file2.txt notes.txt
+ls
+ls
+cat note.txt
+cat notes.txt
+cd notes.txt
+cd ~/notes.txt
+ls
+rm file3.txt
+ls
+cd fullstack_typhoon_spring_2025/
+cd fullstack_typhoon_spring_2025
+cd fullstack_typhoon_spring_2025
+clear
+ls
+cd fullstack_typoon_spring_2025
+clear
+cd FULLSTACK_TYPHOON_SPRING_2025
+nano introduce.py 
+nano introduce.py 
+nano friuts.txt
+pwd
+cd ..
+ls
+cd fullstack_typhoon_spring_2025
+ls
+cd week_01
+ls
+cd session_02
+ls
+nano friuts.txt
+wc -l friuts.txt
+sort friuts.txt | uniq
+grep "berry" friuts.txt
+ls
+grep "alim friuts.txt\
+"
+grep "alim" friuts.txt
+cd ~desktop
+ls
+cd ~Downloads
+ls
+cd Downloads
+ls -la

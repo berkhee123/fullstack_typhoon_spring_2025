@@ -1,0 +1,20 @@
+gut statys
+git status
+git add
+git add .
+git status
+gti commit -m "add: session 01"
+git commit -m "add: session 01"
+git push
+ls
+python3 hello.py
+python3.9.6
+git version 2.39.5
+ssh-keygen
+cat/Users/typhoon/.ssh/id_rsa.pub: No such file or directory
+cat /Users/typhoon/.ssh/id_rsa.pub
+cd
+cd Desktop
+ls
+git clone git@github.com:berkhee123/fullstack_typhoon_spring_2025.git
+ls
