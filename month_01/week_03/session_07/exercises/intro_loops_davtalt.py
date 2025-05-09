@@ -1,6 +1,6 @@
 # python loops 
 
-friuts = ["alim", "banana", "guzeelzgene"]
+friuts = ["alim", "banana", "guzeelzgene", "usan_uzem", "liir", "senzu1", "9102", "blitz3", "mzino4", "techno5"]
 
 #Problem -- 100 shirheg jimsnii toroltoi list baival 
 print(friuts[0])
@@ -116,4 +116,11 @@ even_squares = [i ** 2 for i in range(1,11) if i % 2 == 0]
 print(even_squares) # [4, 16, 36, 64, 100]
 
 
+
+for friut in friuts:
+    print(friut)
+
+for fruit in mylist:
+    if fruit.startswith(('a', 'p')):
+        print(fruit)
 

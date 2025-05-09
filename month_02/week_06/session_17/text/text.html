@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h2 {
+            color: rgb(150, 85, 74);
+            text-align: center;
+        }
+
+        p {
+            background-color: rgb(68, 128, 128);
+            font-family: 'Courier New', Courier, monospace;
+        }
+
+        .pink {
+            background-color: rgb(134, 124, 126);
+            color: white;
+            font-family: 'Courier New', Courier, monospace;
+        }
+
+        @font-face {
+            font-family: Noto;
+            src: url(.Raleway-Italic-VariableFont_wght.ttf);
+        }
+
+        .one {
+            font-weight: bold;
+        }
+
+        .two {
+            font-style: inherit;
+        }
+
+        .three {
+            font-size: 20px;
+        }
+
+        .lowercase {
+            text-transform: capitalize;
+            text-decoration: underline;
+        }
+
+        .uppercase {
+            text-transform: uppercase;
+            text-decoration: overline;
+            word-spacing: 10px;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        .shadow {
+            text-shadow: 2px 1px 4px rgb(43, 1, 1);
+        }
+
+        .link:hover {
+            color: blue
+        }
+
+        .link:active {
+            color: yellow
+        }
+
+        .link:visited {
+            color: pink;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>css - text</h2>
+    <p>Lorem, ipsum dolor. sit amet </p>
+    <p class="pink">Lorem ipsum dolor sit. amet </p>
+    <ul>
+        <li class="one">heh</li>
+        <li class="two">hhi</li>
+        <li class="three">hha</li>
+    </ul>
+    <h4>text-transform:</h4>
+    <p>class="lowecase"Lorem ipsum dolor sit amet.</p>
+    <p>class="uppercase"> Lorem ipsum dolor sit amet.</p>
+    <a href="../text/text.html">text</a>
+    <p> class="shadow"</p>
+    <ul>
+        <li><a class="link" href="">link</a>
+    </ul>
+</body>
+
+</html>

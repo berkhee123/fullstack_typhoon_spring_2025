@@ -4,6 +4,7 @@ with open('advanced.txt', 'r') as file:
     position = file.tell()
     
     content = file.read(5)
+    print(content)
     file.seek(10) # ehnii gishuunuudiig delete hiideg 
 
     content = file.read()
@@ -11,27 +12,23 @@ with open('advanced.txt', 'r') as file:
 
 # iterate with line numbers
 with open('output.txt', 'r') as file:
-    for i, line in enumerate(file, 1):
+    for i, line in enumerate(file, 1): # (1) index eer eheldeg 
         print(f"line {i}: {line}")
 
-# open binary image file
-
-with open('papst-dead.jpg', 'rb') as file:
-    binary_data = file.read()
-    print(binary_data)
-
-# copy new image file
-with open('copy.jpg', 'wb') as file:
-    file.write(binary_data)  
-
 # CSV Files handling
-with open('data.csv', 'r') as file:
+with open('data.csv', 'r', encoding='utf-8') as file: # zaaval encoding='ut-8' bichne
     for line in file:
         values = line.strip().split(',')
         print(values)
 
-with open('output.csv', 'w') as file:
+with open('output.csv', 'w') as file:               # \n er ni enter geed oilgochih 
     file.write('Name,Age,City\n')
     file.write('john,25,New York\n')
     file.write('Alice,30,Boston\n')
+    file.write('Berkhee,33,Ulaanbaatar\n')
+    file.write('Shat,35,Ulaanbaatar')
+
+
+
+
 

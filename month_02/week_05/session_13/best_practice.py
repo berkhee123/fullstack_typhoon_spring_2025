@@ -19,6 +19,6 @@ with open('large_file.html', 'r') as file:
 import tempfile
 
 with tempfile.TemporaryFile() as temp:
-    temp.write(b'Temporary data')
+    temp.write(b'Temporary_data.txt')
     temp.seek(0)
     data = temp.read()

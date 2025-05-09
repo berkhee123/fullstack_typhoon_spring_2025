@@ -1,6 +1,3 @@
-Python_dictionaries.py
-
-
 # Хоосон толь бичиг
 empty_dict = {}
 empty_dict = dict()

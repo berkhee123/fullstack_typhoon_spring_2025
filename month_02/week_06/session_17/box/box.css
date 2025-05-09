@@ -1,0 +1,41 @@
+.box {
+    width: 400px;
+    height: 400px;
+    background-color: rgb(151, 14, 37);
+    padding: 30px;
+    margin: 30px;
+    align-content: center;
+    margin: auto;
+}
+
+#text {
+    width: 200px;
+    height: 300px;
+    background-color: rgb(100, 100, 100);
+    padding: 20px;
+    border: 1px dashed rgb(102, 40, 40);
+    border-bottom: 10px solid rgb(114, 62, 62);
+
+    align-content: center;
+}
+
+.big {
+    width: 400px;
+    height: 500px;
+    background-color: rgb(110, 82, 82);
+    overflow: hidden;
+    overflow: scroll;
+}
+
+.square {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    margin: 20px;
+    display: inline;
+}
+
+.pink {
+    width: 800px;
+    width: 400px;
+}

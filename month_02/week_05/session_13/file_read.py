@@ -3,7 +3,7 @@
 # Open File
 file = open('file_intro.md', 'r')
 content = file.read()
-file.clse()
+file.close()
 print(content)
 file.close()
 
