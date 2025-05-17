@@ -1,0 +1,32 @@
+#one {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    margin: 20px;
+}
+
+#one::first-letter{
+    text-transform: capitalize;
+}
+
+#one:hover{
+    color: red;
+}
+
+#two {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    translate: 20px 30px;
+}
+
+#three{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    transform: rotate(30deg);
+    translate: 0px 30px;
+    scale: 0.5;
+}
